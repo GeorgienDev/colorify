@@ -35,4 +35,5 @@ To run Colorify on your local machine, follow these steps:
     Auto Change Feature: Check the "Auto Change" box to start automatically cycling through colors. Adjust the speed using the slider.
     Copy Color Code: Click on the displayed color code to copy it to your clipboard.
 
-
+## Live Demo
+    You can view Colorify live at: https://georgiendev.github.io/colorify/
