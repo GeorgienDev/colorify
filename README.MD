@@ -36,4 +36,4 @@ To run Colorify on your local machine, follow these steps:
     Copy Color Code: Click on the displayed color code to copy it to your clipboard.
 
 ## Live Demo
-    You can view Colorify live at: https://georgiendev.github.io/colorify/
+You can view **Colorify** live at: [Colorify Live Demo](https://georgiendev.github.io/colorify/)
